@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="get_patent" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="get_patent" project-jdk-type="Python SDK" />
+</project>
