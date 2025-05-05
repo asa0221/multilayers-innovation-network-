@@ -1,0 +1,33 @@
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略 Jupyter notebook 检查点
+.ipynb_checkpoints/
+
+# 忽略虚拟环境
+venv/
+env/
+
+# 忽略 Chrome 测试浏览器整个目录
+webScraping/Aging/chrome/
+
+# 忽略所有 csv、excel 文件（全局范围）
+*.csv
+*.xls
+*.xlsx
+
+# 忽略大模型、压缩文件（防止误上传）
+*.zip
+*.rar
+*.tar
+*.gz
+*.h5
+*.pkl
+
+# 忽略 VSCode / JetBrains 的项目设置（可选）
+.vscode/
+.idea/
